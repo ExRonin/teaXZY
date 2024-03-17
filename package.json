@@ -1,6 +1,6 @@
 {
   "name": "teaxzy",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -27,13 +27,13 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ExRonin/teaxzy"
+    "url": "git+https://github.com/ExRonin/teaxzy.git"
   },
   "keywords": [
     "teaxzy"
   ],
   "author": "exronin",
-  "license": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ExRonin/teaxzy/issues"
   },
